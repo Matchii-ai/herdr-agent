@@ -1,4 +1,4 @@
-FROM pi-agent-antsable:latest
+FROM pi-agent:latest
 
 ENV PATH=$PATH:/root/.local/bin
 
